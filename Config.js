@@ -11,7 +11,7 @@ global.location = "Indian"
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = 'Richmond'
 global.packname = 'Sticker By'
 global.author = 'Maria Bot'
 //console view/theme
